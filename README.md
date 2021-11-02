@@ -1,6 +1,49 @@
-### Hi there 👋
-<img src="https://github.com/allenarduino/allenarduino/blob/main/undraw1.png  " width="500" height="250" />
-- I'm Allen Jones. Full stack developer and a passionate computer programmer.
-- I build back end REST APIs with Python Flask,PHP and NodeJs 
-- For consuming back end REST APIs and building single page applications,I use ReactJs,React Native and AngularJs.
-- I just completed my computer engineering degree at <a href="https://www.knust.edu.gh/">KNUST</a>
+
+
+​<h2>Hi👋🏻, I'm Allen Jones</h2>
+
+![github](https://c4.wallpaperflare.com/wallpaper/176/864/869/computer-laptop-coffee-programming-wallpaper-preview.jpg)
+
+# About me
+I'm Allen Jones. Full stack developer and a passionate computer programmer.
+I build back end REST APIs with Python Flask,PHP and NodeJs. 
+For consuming back end REST APIs and building single page applications,I use ReactJs,React Native and AngularJs.
+I just completed my computer engineering degree at <a href="https://www.knust.edu.gh/">KNUST</a>
+
+
+# Technologies Used :
+## Languages + Frameworks: 
+- HTML5
+- CSS
+- JavaScript
+- ReactJS
+- React Native
+- Flask
+- NodeJS
+- Java
+- Python
+- PHP
+## Database
+- MySQL
+- MongoDB
+- Mongoose
+- SQL
+
+## Other
+- Git/GitHub
+- Google cloud
+- Heroku
+- Visual Studio Code
+- Netlify
+- Firebase
+
+
+# Education
+- Kwame Nkrumah University of Science  and Technology
+## Program
+(BSC. Computer engineering)
+
+# Contact
+- aljay3334@gmail.com
+- <a href='https://www.linkedin.com/in/allen-jones-b799b7171'>Linkedin</a>
+- <a href='https://www.instagram.com/_allenjones/'>Instagram</a>
