@@ -41,7 +41,7 @@ I just completed my computer engineering degree at <a href="https://www.knust.ed
 # Education
 - Kwame Nkrumah University of Science  and Technology
 ## Program
-(BSC. Computer engineering)
+(BSC. Computer Engineering)
 
 # Contact
 - aljay3334@gmail.com
