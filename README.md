@@ -1,10 +1,11 @@
 
 
 ​<h2>Hi👋🏻, I'm Allen Jones</h2>
-<img 
-src="https://c4.wallpaperflare.com/wallpaper/176/864/869/computer-laptop-coffee-programming-wallpaper-preview.jpg"
-style="height:150px; width:100%"
-/>
+ 
+![github](https://c4.wallpaperflare.com/wallpaper/176/864/869/computer-laptop-coffee-programming-wallpaper-preview.jpg)
+
+
+
 # About me
 I'm Allen Jones. Full stack developer and a passionate computer programmer.
 I build back end REST APIs with Python Flask,PHP and NodeJs. 
