@@ -9,9 +9,9 @@
 
 
 # About me
-I'm Allen Jones. Full stack developer and a passionate computer programmer.
-I build back end REST APIs with PHP,NodeJs and Flask. 
-For consuming back end REST APIs and building single page applications,I use ReactJs,React Native and AngularJs.
+I'm Allen Jones. Full stack developer and a passionate software engineer.
+I build back end RESTful APIs with NodeJS and Flask. 
+For consuming back end RESTful APIs and building single page and fully responsive applications,I use ReactJs,React Native and AngularJs.
 I just finished my computer engineering degree at <a href="https://www.knust.edu.gh/"><b>KNUST</b></a>.
 <p>I'm ready to learn more in any organization I find myself.</p>
 
