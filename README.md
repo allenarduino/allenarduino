@@ -13,7 +13,7 @@ I'm Allen Jones. Full stack developer and a passionate software engineer.
 I build back end RESTful APIs with NodeJS,PHP and Flask. 
 For consuming RESTful APIs and building single page and fully responsive applications,I use ReactJs,React Native and AngularJs.
 
-<p>Here are some of the live projects I built:</p>
+<p>Here are some of my live projects I'm proud of:</p>
 <p><b><a href="https://kelly-foods.web.app/">Kelly Foods</a></b></p>
 <p><b><a href="https://demorto-foods.web.app/">Demorto Foods</a></b></p>
 <p><b><a href="https://jones-mall.web.app/">Jones Mall</a></b></p>
