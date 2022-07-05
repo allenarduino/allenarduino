@@ -70,7 +70,7 @@ For consuming RESTful APIs and building single page and fully responsive applica
 # Education
 - Kwame Nkrumah University of Science  and Technology
 ## Program
-(BSC. Computer Engineering)
+(BSc. Computer Engineering)
 
 # Contact
 - aljay3334@gmail.com
