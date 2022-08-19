@@ -3,7 +3,7 @@
 ​<h2>Hi👋🏻, I'm Allen Jones</h2>
  
 <img src="https://c4.wallpaperflare.com/wallpaper/176/864/869/computer-laptop-coffee-programming-wallpaper-preview.jpg"
-     style="width:100%; height:250px;border-radius:10px;"
+     style="width:100%; height:250px;"
  />
 
 
