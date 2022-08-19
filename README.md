@@ -6,7 +6,11 @@
      style="width:100%; height:250px;"
  />
 
-
+<style>
+img{
+border-radius:30px;
+}
+</style>
 
 # About me
 I'm Allen Jones. Full stack developer and a passionate software engineer.
