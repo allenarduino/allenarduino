@@ -54,7 +54,6 @@ For consuming RESTful APIs and building single page and fully responsive applica
 ## Database
 - MySQL
 - MongoDB
-- Mongoose
 - SQL
 
 ## Other
