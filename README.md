@@ -8,14 +8,13 @@
 
 
 # About Me
-I'm Allen Jones. Full stack developer and a passionate software engineer.
-I build back end RESTful APIs with NodeJS,PHP and Flask. 
-For consuming RESTful APIs and building single page and fully responsive applications,I use ReactJs,React Native and AngularJs.
+I am a software engineer with over 3 years of experience in developing full-stack web applications. I focus on building user-friendly platforms using technologies like React, TypeScript, Node.js, and Express. I have experience with cloud solutions such as Supabase, Vercel, Google Cloud, and Firebase, and I'm familiar with database management, especially MySQL. Currently, I am building Sheetrocket, a micro-SaaS product that turns spreadsheets into JSON APIs, and I am focused on improving the platform based on user feedback. I am committed to delivering practical, high-quality solutions that enhance user experiences and drive project success.
 
 <p>Here are some of my live projects I'm proud of:</p>
+<p><b><a href="https://sheetrocket.com/">Jones Mall</a></b></p>
 <p><b><a href="https://kelly-foods.web.app/">Kelly Foods</a></b></p>
 <p><b><a href="https://demorto-foods.web.app/">Demorto Foods</a></b></p>
-<p><b><a href="https://jones-mall.web.app/">Jones Mall</a></b></p>
+
 
 <p>I'm ready to learn more in any organization I find myself.</p>
 
