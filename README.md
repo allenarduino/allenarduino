@@ -8,7 +8,7 @@
 
 
 # About Me
-I am a software engineer with over 3 years of experience in developing full-stack web applications. I focus on building user-friendly platforms using technologies like React, TypeScript, Node.js, and Express. I have experience with cloud solutions such as Supabase, Vercel, Google Cloud, and Firebase, and I'm familiar with database management, especially MySQL. Currently, I am building Sheetrocket, a micro-SaaS product that turns spreadsheets into JSON APIs, and I am focused on improving the platform based on user feedback. I am committed to delivering practical, high-quality solutions that enhance user experiences and drive project success.
+I am a software engineer with over 3 years of experience in developing full-stack web applications. I specialize in developing user-friendly platforms utilizing technologies such as React, TypeScript, Node.js, and Express. I have experience with cloud solutions such as Supabase, Vercel, Google Cloud, and Firebase, and I'm familiar with database management, especially MySQL. Currently, I am building Sheetrocket, a micro-SaaS product that turns spreadsheets into JSON APIs, and I am focused on improving the platform based on user feedback. I am committed to delivering practical, high-quality solutions that enhance user experiences and drive project success.
 
 <p>Here are some of my live projects I'm proud of:</p>
 <p><b><a href="https://sheetrocket.com/">Sheetrocket</a></b></p>
@@ -26,12 +26,8 @@ I am a software engineer with over 3 years of experience in developing full-stac
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 
@@ -43,13 +39,8 @@ I am a software engineer with over 3 years of experience in developing full-stac
 - CSS
 - JavaScript
 - ReactJS
-- React Native
-- Flask
 - NodeJS
 - Typescript
-- Java
-- Python
-- PHP
 ## Database
 - MySQL
 - MongoDB
