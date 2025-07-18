@@ -1,11 +1,7 @@
 
 
-​<h2>Hi👋🏻, I'm Allen Jones</h2>
+​<h2><p>Hi👋🏻, I'm Allen Jones</p></h2>
  
-<img src="https://c4.wallpaperflare.com/wallpaper/176/864/869/computer-laptop-coffee-programming-wallpaper-preview.jpg"
-     style="width:100%; height:250px;"
- />
-
 
 # About Me
 I am a software engineer with over 3 years of experience in developing full-stack web applications. I specialize in developing user-friendly platforms utilizing technologies such as React, TypeScript, Node.js, and Express. I have experience with cloud solutions such as Supabase, Vercel, Google Cloud, and Firebase, and I'm familiar with database management, especially MySQL. Currently, I am building Sheetrocket, a micro-SaaS product that turns spreadsheets into JSON APIs, and I am focused on improving the platform based on user feedback. I am committed to delivering practical, high-quality solutions that enhance user experiences and drive project success.
