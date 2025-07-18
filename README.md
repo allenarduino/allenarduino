@@ -4,7 +4,13 @@
  
 
 # About Me
-I am a software engineer with over 3 years of experience in developing full-stack web applications. I specialize in developing user-friendly platforms utilizing technologies such as React, TypeScript, Node.js, and Express. I have experience with cloud solutions such as Supabase, Vercel, Google Cloud, and Firebase, and I'm familiar with database management, especially MySQL. Currently, I am building Sheetrocket, a micro-SaaS product that turns spreadsheets into JSON APIs, and I am focused on improving the platform based on user feedback. I am committed to delivering practical, high-quality solutions that enhance user experiences and drive project success.
+Software engineer passionate about building and maintaining full-stack web applications that solve real-world problems. I'm currently working as a full-time Frontend-Engineer at Green Vision Solutions GmbH.
+
+With over 5 years of experience, I specialize in crafting clean, maintainable, and high-impact digital solutions using React, Next.js, TypeScript, Node.js, PostgreSQL, and MongoDB. My journey has taken me from contributing to enterprise platforms like GreenHub, a carbon reporting tool for Green Vision Solutions, to building Sheetrocket, a micro SaaS that transforms spreadsheets into live JSON APIs.
+
+I'm deeply committed to performance, developer experience, and product-led engineering. My work often involves cloud platforms like Vercel, Azure, and Supabase, and I enjoy tackling challenges ranging from backend data modeling to frontend UX optimization.
+
+Currently, I'm maintaining and building Sheetrocket while also developing other SaaS applications that are yet to be launched. I'm focused on shipping real products that solve real problems and learning along the way.
 
 <p>Here are some of my live projects I'm proud of:</p>
 <p><b><a href="https://sheetrocket.com/">Sheetrocket</a></b></p>
@@ -44,10 +50,8 @@ I am a software engineer with over 3 years of experience in developing full-stac
 
 ## Other
 - Git/GitHub
-- Google cloud
-- Heroku
-- Visual Studio Code
-- Netlify
+- Google Cloud
+- Vercel
 - Firebase
 
 
