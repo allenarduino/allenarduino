@@ -14,8 +14,9 @@ Currently, I'm maintaining and building Sheetrocket while also developing other 
 
 <p>Here are some of my live projects I'm proud of:</p>
 <p><b><a href="https://sheetrocket.com/">Sheetrocket</a></b></p>
-<p><b><a href="https://kelly-foods.web.app/">Kelly Foods</a></b></p>
-<p><b><a href="https://demorto-foods.web.app/">Demorto Foods</a></b></p>
+<p><b><a href="https://www.verbicodeai.co/">Verbicode AI</a></b></p>
+<p><b><a href="https://github.com/allenarduino/formcarve">Formcarve</a></b></p>
+
 
 
 <p>I'm ready to learn more in any organization I find myself.</p>
