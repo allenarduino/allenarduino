@@ -14,8 +14,8 @@ Currently, I'm maintaining and building Sheetrocket while also developing other 
 
 <p>Here are some of my live projects I'm proud of:</p>
 <p><b><a href="https://sheetrocket.com/">Sheetrocket</a></b></p>
-<p><b><a href="https://www.verbicodeai.co/">Verbicode AI</a></b></p>
 <p><b><a href="https://github.com/allenarduino/formcarve">Formcarve</a></b></p>
+<p><b><a href="https://www.verbicodeai.co/">Verbicode AI</a></b></p>
 
 
 
@@ -34,34 +34,3 @@ Currently, I'm maintaining and building Sheetrocket while also developing other 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 
-
-
-
-## Languages + Frameworks: 
-- HTML5
-- CSS
-- JavaScript
-- ReactJS
-- NodeJS
-- Typescript
-## Database
-- MySQL
-- MongoDB
-- SQL
-
-## Other
-- Git/GitHub
-- Google Cloud
-- Vercel
-- Firebase
-
-
-# Education
-- Kwame Nkrumah University of Science  and Technology
-## Program
-(BSc. Computer Engineering)
-
-# Contact
-- aljay3334@gmail.com
-- <a href='https://www.linkedin.com/in/allen-jones-b799b7171'>Linkedin</a>
-- <a href='https://www.instagram.com/_allenjones/'>Instagram</a>
