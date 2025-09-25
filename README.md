@@ -4,7 +4,7 @@
  
 
 # About Me
-Software engineer passionate about building and maintaining full-stack web applications that solve real-world problems. I'm currently working as a full-time Frontend-Engineer at Green Vision Solutions GmbH.
+Software engineer passionate about building and maintaining full-stack web applications that solve real-world problems. I'm currently working as a full-time Software Engineer at Green Vision Solutions GmbH.
 
 With over 5 years of experience, I specialize in crafting clean, maintainable, and high-impact digital solutions using PHP, React, Next.js, TypeScript, Node.js, PostgreSQL, and MongoDB. My journey has taken me from contributing to enterprise platforms like GreenHub, a carbon reporting tool for Green Vision Solutions, to building Sheetrocket, a micro SaaS that transforms spreadsheets into live JSON APIs.
 
