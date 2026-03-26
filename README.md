@@ -4,13 +4,21 @@
  
 
 # About Me
-Software engineer passionate about building and maintaining full-stack web applications that solve real-world problems. I'm currently working as a full-time Software Engineer at Green Vision Solutions GmbH.
+I'm a Software Engineer and SaaS founder based in Ghana, with over five years of experience building web applications and working remotely with distributed teams.
 
-With over 5 years of experience, I specialize in crafting clean, maintainable, and high-impact digital solutions using PHP, React, Next.js, TypeScript, Node.js, PostgreSQL, and MongoDB. My journey has taken me from contributing to enterprise platforms like GreenHub, a carbon reporting tool for Green Vision Solutions, to building Sheetrocket, a micro SaaS that transforms spreadsheets into live JSON APIs.
+By day, I'm a Senior Frontend Engineer at Green Vision Solutions GmbH, a German company, where I lead frontend development for GreenHub, a carbon reporting platform used by companies across Germany and Europe. I refactored the frontend into clear form and view separations, improved performance, and transformed complex data-heavy reports into actionable dashboards. These changes contributed to higher customer retention and revenue growth over the past 15 months.
 
-I'm deeply committed to performance, developer experience, and product-led engineering. My work often involves cloud platforms like Vercel, Azure, and Supabase, and I enjoy tackling challenges ranging from backend data modeling to frontend UX optimization.
+Outside of my day job, I build tools that solve real problems for developers and non-technical users:
 
-Currently, I'm maintaining and building Sheetrocket while also developing other SaaS applications that are yet to be launched. I'm focused on shipping real products that solve real problems and learning along the way.
+
+
+
+
+Formgrid.dev: An open-source, privacy-focused form backend and no-code form builder. Developers can point their existing HTML forms at a Formgrid endpoint in minutes. Non-technical users can build and share forms via a drag-and-drop builder without writing any code. Features include email notifications, spam protection, custom-branded email templates, file uploads, and self-hosting via Docker. Currently serving over 140 registered users and growing through organic SEO with paying customers across two pricing tiers.
+
+
+
+Sheetrocket.com: A micro-SaaS that turns Google Sheets into a CMS and RESTful API, simplifying data workflows, enabling live dashboards, custom forms, and website integration without touching the Google Sheets API directly.
 
 <p>Here are some of my live projects I'm proud of:</p>
 <p><b><a href="https://sheetrocket.com/">Sheetrocket</a></b></p>
@@ -19,7 +27,7 @@ Currently, I'm maintaining and building Sheetrocket while also developing other 
 
 
 
-<p>I'm ready to learn more in any organization I find myself.</p>
+<p>I'm ready to blend into any organization I find myself in.</p>
 
 
 # Technologies Used :
