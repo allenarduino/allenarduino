@@ -14,7 +14,7 @@ Outside of my day job, I build tools that solve real problems for developers and
 
 
 
-Formgrid.dev: An open-source, privacy-focused form backend and no-code form builder. Developers can point their existing HTML forms at a Formgrid endpoint in minutes. Non-technical users can build and share forms via a drag-and-drop builder without writing any code. Features include email notifications, spam protection, custom-branded email templates, file uploads, and self-hosting via Docker. Currently serving over 140 registered users and growing through organic SEO with paying customers across two pricing tiers.
+Formgrid.dev: An open-source, privacy-focused form backend and no-code form builder. Developers can point their existing HTML forms at a Formgrid endpoint in minutes. Non-technical users can build and share forms via a drag-and-drop builder without writing any code. Features include email notifications, spam protection, custom-branded email templates, file uploads, and self-hosting via Docker. Currently serving over 300 registered users and growing through organic SEO with paying customers across two pricing tiers.
 
 
 
