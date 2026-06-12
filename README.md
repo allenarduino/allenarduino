@@ -4,7 +4,7 @@
  
 
 # About Me
-I'm a Software Engineer and SaaS founder based in Ghana, with over five years of experience building web applications and working remotely with distributed teams.
+I'm a Software Engineer and SaaS founder based in Ghana, with over 6 years of experience building web applications and working remotely with distributed teams.
 
 By day, I'm a Senior Frontend Engineer at Green Vision Solutions GmbH, a German company, where I lead frontend development for GreenHub, a carbon reporting platform used by companies across Germany and Europe. I refactored the frontend into clear form and view separations, improved performance, and transformed complex data-heavy reports into actionable dashboards. These changes contributed to higher customer retention and revenue growth over the past 15 months.
 
